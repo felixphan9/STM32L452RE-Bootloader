@@ -12,3 +12,5 @@ This is a custom bootloader for STM32L452RE:
 - Research the Android VIM3 Khadas board, establish UART communication between VIM3 Khadas and a PC; and establish UART communication between VIM3 Khadas and the Nucleo L452RE board using a shell script.
 
 - Write a Python program to generate a shell script for firmware updates. The host for updates is the Android VIM3 Khadas board, using UART communication.
+
+Languages: Python, C
